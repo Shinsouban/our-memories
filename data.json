@@ -1,0 +1,522 @@
+{
+  "Half-Life": {
+    "hours": 0.0,
+    "appid": 70
+  },
+  "Half-Life 2": {
+    "hours": 0.0,
+    "appid": 220
+  },
+  "Half-Life 2: Deathmatch": {
+    "hours": 0.0,
+    "appid": 320
+  },
+  "Half-Life Deathmatch: Source": {
+    "hours": 0.0,
+    "appid": 360
+  },
+  "Portal": {
+    "hours": 2.7,
+    "appid": 400
+  },
+  "Left 4 Dead 2": {
+    "hours": 0.0,
+    "appid": 550
+  },
+  "Dota 2": {
+    "hours": 902.5,
+    "appid": 570
+  },
+  "Portal 2": {
+    "hours": 10.7,
+    "appid": 620
+  },
+  "S.T.A.L.K.E.R.: Shadow of Chernobyl": {
+    "hours": 0.0,
+    "appid": 4500
+  },
+  "Metro 2033": {
+    "hours": 0.0,
+    "appid": 43110
+  },
+  "Metro: Last Light Complete Edition": {
+    "hours": 0.0,
+    "appid": 43160
+  },
+  "Terraria": {
+    "hours": 19.5,
+    "appid": 105600
+  },
+  "Worms Revolution": {
+    "hours": 1.6,
+    "appid": 200170
+  },
+  "Fable - The Lost Chapters": {
+    "hours": 0.4,
+    "appid": 204030
+  },
+  "Castle Crashers": {
+    "hours": 0.1,
+    "appid": 204360
+  },
+  "SpeedRunners": {
+    "hours": 40.1,
+    "appid": 207140
+  },
+  "Batman™: Arkham Knight": {
+    "hours": 0.0,
+    "appid": 208650
+  },
+  "Starbound": {
+    "hours": 0.0,
+    "appid": 211820
+  },
+  "Don't Starve": {
+    "hours": 43.6,
+    "appid": 219740
+  },
+  "Grim Dawn": {
+    "hours": 0.0,
+    "appid": 219990
+  },
+  "Dead Island: Epidemic": {
+    "hours": 0.9,
+    "appid": 222900
+  },
+  "Desktop Dungeons": {
+    "hours": 0.0,
+    "appid": 226620
+  },
+  "Euro Truck Simulator 2": {
+    "hours": 5.0,
+    "appid": 227300
+  },
+  "Company of Heroes 2": {
+    "hours": 0.0,
+    "appid": 231430
+  },
+  "Magicka 2": {
+    "hours": 1.0,
+    "appid": 238370
+  },
+  "BattleBlock Theater": {
+    "hours": 10.6,
+    "appid": 238460
+  },
+  "The Forest": {
+    "hours": 14.1,
+    "appid": 242760
+  },
+  "Dungeon of the ENDLESS™": {
+    "hours": 0.0,
+    "appid": 249050
+  },
+  "Hyper Light Drifter": {
+    "hours": 0.3,
+    "appid": 257850
+  },
+  "Subnautica": {
+    "hours": 0.0,
+    "appid": 264710
+  },
+  "Hero Siege": {
+    "hours": 0.1,
+    "appid": 269210
+  },
+  "Jagged Alliance Gold": {
+    "hours": 0.0,
+    "appid": 283270
+  },
+  "Metro 2033 Redux": {
+    "hours": 0.0,
+    "appid": 286690
+  },
+  "Sid Meier's Civilization VI": {
+    "hours": 0.0,
+    "appid": 289070
+  },
+  "The Witcher 3: Wild Hunt": {
+    "hours": 36.4,
+    "appid": 292030
+  },
+  "Titan Souls": {
+    "hours": 0.0,
+    "appid": 297130
+  },
+  "Unturned": {
+    "hours": 1.1,
+    "appid": 304930
+  },
+  "Don't Starve Together": {
+    "hours": 102.4,
+    "appid": 322330
+  },
+  "Move or Die": {
+    "hours": 2.9,
+    "appid": 323850
+  },
+  "JumpJet Rex": {
+    "hours": 0.1,
+    "appid": 329460
+  },
+  "Dead Island Retro Revenge": {
+    "hours": 0.0,
+    "appid": 337360
+  },
+  "Keep Talking and Nobody Explodes": {
+    "hours": 2.1,
+    "appid": 341800
+  },
+  "Besiege": {
+    "hours": 0.0,
+    "appid": 346010
+  },
+  "ARK: Survival Evolved": {
+    "hours": 0.0,
+    "appid": 346110
+  },
+  "Quiplash": {
+    "hours": 0.0,
+    "appid": 351510
+  },
+  "Shift Happens": {
+    "hours": 0.1,
+    "appid": 359840
+  },
+  "Starbound - Unstable": {
+    "hours": 0.0,
+    "appid": 367540
+  },
+  "No Time To Explain Remastered": {
+    "hours": 2.5,
+    "appid": 368730
+  },
+  "Dead Island Definitive Edition": {
+    "hours": 15.9,
+    "appid": 383150
+  },
+  "Dead Island Riptide Definitive Edition": {
+    "hours": 0.0,
+    "appid": 383180
+  },
+  "Hue": {
+    "hours": 4.1,
+    "appid": 383270
+  },
+  "Scrap Mechanic": {
+    "hours": 1.8,
+    "appid": 387990
+  },
+  "Magicka 2: Spell Balance Beta": {
+    "hours": 0.0,
+    "appid": 397080
+  },
+  "Dishonored 2": {
+    "hours": 0.0,
+    "appid": 403640
+  },
+  "Hob": {
+    "hours": 2.0,
+    "appid": 404680
+  },
+  "ARK: Survival Of The Fittest": {
+    "hours": 0.0,
+    "appid": 407530
+  },
+  "Stardew Valley": {
+    "hours": 264.2,
+    "appid": 413150
+  },
+  "Hellblade: Senua's Sacrifice": {
+    "hours": 0.0,
+    "appid": 414340
+  },
+  "Little Nightmares": {
+    "hours": 0.0,
+    "appid": 424840
+  },
+  "Abiotic Factor": {
+    "hours": 55.5,
+    "appid": 427410
+  },
+  "Wallpaper Engine": {
+    "hours": 10.6,
+    "appid": 431960
+  },
+  "Rusty Lake Hotel": {
+    "hours": 0.0,
+    "appid": 435120
+  },
+  "Surviving Mars": {
+    "hours": 0.0,
+    "appid": 464920
+  },
+  "Titan Quest Anniversary Edition": {
+    "hours": 0.0,
+    "appid": 475150
+  },
+  "Beholder": {
+    "hours": 0.0,
+    "appid": 475550
+  },
+  "Human Fall Flat": {
+    "hours": 0.3,
+    "appid": 477160
+  },
+  "The Elder Scrolls V: Skyrim Special Edition": {
+    "hours": 2.7,
+    "appid": 489830
+  },
+  "Figment": {
+    "hours": 0.0,
+    "appid": 493540
+  },
+  "Celeste": {
+    "hours": 0.0,
+    "appid": 504230
+  },
+  "theHunter: Call of the Wild™": {
+    "hours": 16.8,
+    "appid": 518790
+  },
+  "Bomber Crew": {
+    "hours": 0.0,
+    "appid": 537800
+  },
+  "Deep Rock Galactic": {
+    "hours": 0.0,
+    "appid": 548430
+  },
+  "Warhammer: Vermintide 2": {
+    "hours": 0.0,
+    "appid": 552500
+  },
+  "Far Cry 5": {
+    "hours": 0.0,
+    "appid": 552520
+  },
+  "Witch It": {
+    "hours": 12.9,
+    "appid": 559650
+  },
+  "SteamWorld Dig 2": {
+    "hours": 0.0,
+    "appid": 571310
+  },
+  "PUBG: BATTLEGROUNDS": {
+    "hours": 27.7,
+    "appid": 578080
+  },
+  "Black Desert": {
+    "hours": 0.0,
+    "appid": 582660
+  },
+  "Dead Cells": {
+    "hours": 35.6,
+    "appid": 588650
+  },
+  "Raft": {
+    "hours": 31.1,
+    "appid": 648800
+  },
+  "Field of Glory II": {
+    "hours": 0.0,
+    "appid": 660160
+  },
+  "We Were Here Too": {
+    "hours": 5.6,
+    "appid": 677160
+  },
+  "Despotism 3k": {
+    "hours": 0.0,
+    "appid": 699920
+  },
+  "Overcooked! 2": {
+    "hours": 1.1,
+    "appid": 728880
+  },
+  "11-11 Memories Retold": {
+    "hours": 0.0,
+    "appid": 735580
+  },
+  "Phasmophobia": {
+    "hours": 20.4,
+    "appid": 739630
+  },
+  "Hellblade: Senua's Sacrifice VR Edition": {
+    "hours": 0.0,
+    "appid": 747350
+  },
+  "Good Pizza, Great Pizza": {
+    "hours": 12.8,
+    "appid": 770810
+  },
+  "Assassin's Creed Odyssey": {
+    "hours": 24.1,
+    "appid": 812140
+  },
+  "Black Desert (Retired)": {
+    "hours": 0.0,
+    "appid": 836620
+  },
+  "We Were Here Together": {
+    "hours": 9.4,
+    "appid": 865360
+  },
+  "Valheim": {
+    "hours": 49.0,
+    "appid": 892970
+  },
+  "Bloons TD 6": {
+    "hours": 60.4,
+    "appid": 960090
+  },
+  "Hogwarts Legacy": {
+    "hours": 99.3,
+    "appid": 990080
+  },
+  "The Last Campfire": {
+    "hours": 2.4,
+    "appid": 990630
+  },
+  "Dinkum": {
+    "hours": 2.8,
+    "appid": 1062520
+  },
+  "Biped": {
+    "hours": 0.0,
+    "appid": 1071870
+  },
+  "Baldur's Gate 3": {
+    "hours": 188.4,
+    "appid": 1086940
+  },
+  "Cyberpunk 2077": {
+    "hours": 3.5,
+    "appid": 1091500
+  },
+  "Travellers Rest": {
+    "hours": 0.0,
+    "appid": 1139980
+  },
+  "SLUDGE LIFE": {
+    "hours": 0.0,
+    "appid": 1144770
+  },
+  "Necesse": {
+    "hours": 0.0,
+    "appid": 1169040
+  },
+  "STAR WARS Jedi: Fallen Order™ ": {
+    "hours": 9.4,
+    "appid": 1172380
+  },
+  "Sea of Thieves": {
+    "hours": 5.7,
+    "appid": 1172620
+  },
+  "Red Dead Redemption 2": {
+    "hours": 30.2,
+    "appid": 1174180
+  },
+  "Space Crew: Legendary Edition": {
+    "hours": 0.0,
+    "appid": 1176710
+  },
+  "Need for Speed™ Heat ": {
+    "hours": 0.0,
+    "appid": 1222680
+  },
+  "A Way Out": {
+    "hours": 0.0,
+    "appid": 1222700
+  },
+  "Remnant II": {
+    "hours": 20.7,
+    "appid": 1282100
+  },
+  "We Were Here Forever": {
+    "hours": 0.0,
+    "appid": 1341290
+  },
+  "Teenage Mutant Ninja Turtles: Shredder's Revenge": {
+    "hours": 3.7,
+    "appid": 1361510
+  },
+  "It Takes Two": {
+    "hours": 17.1,
+    "appid": 1426210
+  },
+  "Escape Simulator": {
+    "hours": 0.0,
+    "appid": 1435790
+  },
+  "The Past Within": {
+    "hours": 3.3,
+    "appid": 1515210
+  },
+  "Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure": {
+    "hours": 0.0,
+    "appid": 1712840
+  },
+  "STAR WARS Jedi: Survivor™": {
+    "hours": 0.0,
+    "appid": 1774580
+  },
+  "The Farmer Was Replaced": {
+    "hours": 1.1,
+    "appid": 2060160
+  },
+  "Little Nightmares Enhanced Edition": {
+    "hours": 0.0,
+    "appid": 2149010
+  },
+  "Mind Over Magic Playtest": {
+    "hours": 19.7,
+    "appid": 2354320
+  },
+  "Luma Island": {
+    "hours": 3.1,
+    "appid": 2408820
+  },
+  "S.T.A.L.K.E.R.: Shadow of Chornobyl - Enhanced Edition": {
+    "hours": 0.0,
+    "appid": 2427410
+  },
+  "Ale & Tale Tavern": {
+    "hours": 0.0,
+    "appid": 2683150
+  },
+  "Buckshot Roulette": {
+    "hours": 0.5,
+    "appid": 2835570
+  },
+  "Nuclear Nightmare": {
+    "hours": 0.0,
+    "appid": 2909110
+  },
+  "Heroes of Might and Magic: Olden Era": {
+    "hours": 23.3,
+    "appid": 3105440
+  },
+  "Schedule I": {
+    "hours": 23.5,
+    "appid": 3164500
+  },
+  "PEAK": {
+    "hours": 1.4,
+    "appid": 3527290
+  },
+  "Mage Arena": {
+    "hours": 0.0,
+    "appid": 3716600
+  },
+  "ReStory: Chill Electronics Repairs": {
+    "hours": 5.6,
+    "appid": 3812600
+  },
+  "Far Far West Playtest": {
+    "hours": 0.0,
+    "appid": 3819230
+  }
+}
