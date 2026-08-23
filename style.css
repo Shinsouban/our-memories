@@ -103,3 +103,152 @@ header h1 {
 .shots-grid img:hover {
   transform: scale(1.08);
 }
+/* Ретро-шрифты и стилистика */
+.pixel-title, .pixel-h2, .pixel-btn-sm, .char-name {
+  font-family: 'Press Start 2P', cursive;
+}
+
+/* Баннер */
+.arcade-banner {
+  text-align: center;
+  padding: 30px 10px;
+}
+
+.pixel-frame {
+  border: 4px solid #f43f5e;
+  box-shadow: 0 0 15px #f43f5e, inset 0 0 15px #f43f5e;
+  padding: 20px;
+  max-width: 700px;
+  margin: 0 auto;
+  background: #0f172a;
+  border-radius: 8px;
+}
+
+.pixel-title {
+  color: #38bdf8;
+  font-size: 2rem;
+  margin: 0 0 10px 0;
+  text-shadow: 3px 3px #f43f5e;
+}
+
+.pixel-subtitle {
+  color: #f8fafc;
+  font-size: 0.8rem;
+  letter-spacing: 1px;
+}
+
+/* Карточки персонажей */
+.characters-grid {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.char-card {
+  background: #1e293b;
+  border: 4px solid #38bdf8;
+  border-radius: 12px;
+  padding: 20px;
+  text-align: center;
+  cursor: pointer;
+  transition: transform 0.2s, box-shadow 0.2s;
+  width: 200px;
+}
+
+.char-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 0 20px #38bdf8;
+}
+
+.char-avatar img {
+  width: 120px;
+  height: 120px;
+  image-rendering: pixelated; /* Сохраняет четкие пиксели */
+  border-radius: 8px;
+  background: #334155;
+}
+
+.char-name {
+  font-size: 0.7rem;
+  color: #f43f5e;
+  margin: 15px 0 10px 0;
+}
+
+.pixel-btn-sm {
+  font-size: 0.6rem;
+  background: #8b5cf6;
+  color: white;
+  padding: 6px 10px;
+  border-radius: 4px;
+  display: inline-block;
+}
+
+/* Модальное окно (Character Card) */
+.pixel-modal {
+  display: none;
+  position: fixed;
+  z-index: 100;
+  left: 0; top: 0;
+  width: 100%; height: 100%;
+  background-color: rgba(0,0,0,0.8);
+  justify-content: center;
+  align-items: center;
+}
+
+.pixel-modal-content {
+  background: #fda4af; /* Розовый фон как на 3-м скрине */
+  color: #1e293b;
+  border: 4px solid #1e293b;
+  border-radius: 12px;
+  padding: 20px;
+  width: 90%;
+  max-width: 500px;
+  position: relative;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.close-modal {
+  position: absolute;
+  right: 15px; top: 10px;
+  font-size: 28px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.modal-quote {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 0.7rem;
+  text-align: center;
+  margin-bottom: 20px;
+  color: #881337;
+}
+
+.modal-body {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+}
+
+.modal-avatar-box img {
+  width: 130px;
+  height: 130px;
+  border: 3px solid #1e293b;
+  border-radius: 8px;
+  image-rendering: pixelated;
+  background: #fff;
+}
+
+.modal-stats p {
+  margin: 5px 0;
+  font-size: 0.9rem;
+}
+
+.pixel-tags span {
+  background: #f43f5e;
+  color: white;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.75rem;
+}

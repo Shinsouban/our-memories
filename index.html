@@ -1,46 +1,102 @@
 <!DOCTYPE html>
 <html lang="ru">
+
 <head>
   <meta charset="UTF-8">
   <title>Наша История</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-  <header>
-    <h1>История наших приключений ❤️</h1>
+  <header class="arcade-banner">
+    <div class="pixel-frame">
+      <h1 class="pixel-title">WELCOME</h1>
+      <p class="pixel-subtitle">PRESS START TO PLAY OUR STORY</p>
+    </div>
   </header>
+  <!-- Раздел выбора персонажей -->
+  <section class="section-block character-select-section">
+    <h2 class="pixel-h2">CHARACTER SELECT</h2>
+    <div class="characters-grid">
+
+      <!-- Твой аватар -->
+      <div class="char-card" onclick="openCharModal('player1')">
+        <div class="char-avatar">
+          <img src="assets/Icons/Shinsouban.JPG" alt="shinsouban" id="p1-img">
+        </div>
+        <div class="char-name">P1: shinsouban</div>
+        <span class="pixel-btn-sm">STATS 📊</span>
+      </div>
+
+      <!-- Аватар Коли -->
+      <div class="char-card" onclick="openCharModal('player2')">
+        <div class="char-avatar">
+          <img src="assets/Icons/ишак яйца.JPG" alt="ишак яйца" id="p2-img">
+        </div>
+        <div class="char-name">P2: ишак яйца</div>
+        <span class="pixel-btn-sm">STATS 📊</span>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Модальное окно (Характеристики) -->
+  <div id="charModal" class="pixel-modal">
+    <div class="pixel-modal-content">
+      <span class="close-modal" onclick="closeCharModal()">&times;</span>
+      <h3 id="modalQuote" class="modal-quote">"I AM READY FOR ADVENTURE!"</h3>
+
+      <div class="modal-body">
+        <div class="modal-avatar-box">
+          <img id="modalImg" src="" alt="Avatar">
+        </div>
+        <div class="modal-stats">
+          <p><strong>Class:</strong> <span id="modalClass">Gamer Girl</span></p>
+          <p><strong>Steam ID:</strong> <span id="modalSteam">shinsouban</span></p>
+          <p><strong>Main Weapon:</strong> <span id="modalWeapon">Controller</span></p>
+          <p><strong>Special Ability:</strong> <span id="modalSkill">Склероз 3000</span></p>
+          <div class="pixel-tags" id="modalTags">
+            <span>#Duo</span> <span>#CoOpMaster</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 
   <main>
     <!-- Игры -->
     <section class="section-block">
-  <h2>Совместные игры 🎮</h2>
-  <div class="card-grid">
-    
-    <!-- Карточка Schedule I -->
-    <div class="card game-card">
-      <div class="game-header">
-        <h3>Schedule I</h3>
-        <span class="hours">⏱️ 150 часов вместе</span>
-      </div>
-      
-      <!-- Главная обложка или первый скриншот -->
-      <img src="assets/Schedule/photo_2026-08-22_19-01-18.jpg" alt="Schedule IГлавный скрин" class="main-img">
-      
-      <p class="comment">«Наши безумные ночи в игре»</p>
-      
-      <!-- Мини-галерея со всеми скриншотами -->
-      <div class="screenshots-preview">
-        <h4>Скриншоты из игры:</h4>
-        <div class="shots-grid">
-          <img src="assets/Schedule/photo_2026-08-22_19-01-18.jpg" alt="Скрин 1">
-          <img src="assets/Schedule/photo_2026-08-22_19-19-57.jpg" alt="Скрин 2">
-          <img src="assets/Schedule/photo_2026-08-22_19-36-15.jpg" alt="Скрин 3">
-        </div>
-      </div>
+      <h2>Совместные игры 🎮</h2>
+      <div class="card-grid">
 
-      <span class="badge">Ачивка: «Легендарный дуэт» 🏆</span>
-    </div>
-    
+        <!-- Карточка Schedule I -->
+        <div class="card game-card">
+          <div class="game-header">
+            <h3>Schedule I</h3>
+            <span class="hours">⏱️ 150 часов вместе</span>
+          </div>
+
+          <!-- Главная обложка или первый скриншот -->
+          <img src="assets/Schedule/photo_2026-08-22_19-01-18.jpg" alt="Schedule IГлавный скрин" class="main-img">
+
+          <p class="comment">«Наши безумные ночи в игре»</p>
+
+          <!-- Мини-галерея со всеми скриншотами -->
+          <div class="screenshots-preview">
+            <h4>Скриншоты из игры:</h4>
+            <div class="shots-grid">
+              <img src="assets/Schedule/photo_2026-08-22_19-01-18.jpg" alt="Скрин 1">
+              <img src="assets/Schedule/photo_2026-08-22_19-19-57.jpg" alt="Скрин 2">
+              <img src="assets/Schedule/photo_2026-08-22_19-36-15.jpg" alt="Скрин 3">
+            </div>
+          </div>
+
+          <span class="badge">Ачивка: «Легендарный дуэт» 🏆</span>
+        </div>
+
       </div>
     </section>
 
@@ -61,4 +117,5 @@
   </main>
   <script src="script.js"></script>
 </body>
+
 </html>
