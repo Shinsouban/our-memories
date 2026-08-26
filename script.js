@@ -57,7 +57,7 @@ const characters = {
     steam: "shinsouban",
     weapon: "Геймпад & Чайник",
     skill: "Забывать обещания за 5 сек",
-    img: "assets/Icons/shinsouban.jpg",
+    img: "assets/Icons/shinsouban.JPG",
     tags: "#P1 #CoOp #GamerGirl"
   },
   player2: {
